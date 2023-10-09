@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lillyprogramming
-- 👀 I’m interested in mostly front-end development, but open to all parts of creating a working application.
+- 👀 I’m mostly interested in front-end development, but am open to all parts of creating a working application.
 - 📫 How to reach me: https://www.linkedin.com/in/lilliya-dimitrova-61729a279/
 
 <!---
