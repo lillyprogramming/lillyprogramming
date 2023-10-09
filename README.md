@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @lillyprogramming
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning how to space out my life so I can get 8 hours of sleep
-- 💞️ I’m looking to collaborate on: nothing
-- 📫 How to reach me: just don't
+- 👀 I’m interested in mostly front-end development, but open to all parts of creating a working application.
+- 📫 How to reach me: https://www.linkedin.com/in/lilliya-dimitrova-61729a279/
 
 <!---
 lillyprogramming/lillyprogramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
